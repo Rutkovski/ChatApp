@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "55661855271",
+    "firebase_url": "https://chat-app-369db.firebaseio.com",
+    "project_id": "chat-app-369db",
+    "storage_bucket": "chat-app-369db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55661855271:android:24a3cd6fa04697cb188402",
+        "android_client_info": {
+          "package_name": "com.rutkovski.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55661855271-g0kkp9nlnh21qn4gh3fita7i6pl676od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rutkovski.chatapp",
+            "certificate_hash": "5c5765efd395f3ae44d67f52da800344e2f4fca3"
+          }
+        },
+        {
+          "client_id": "55661855271-9dhv2khobncea3g02rc5rctb1uchh7gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDLBejEWynDn0GgC7R8rzqlHokaMtfOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55661855271-9dhv2khobncea3g02rc5rctb1uchh7gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
